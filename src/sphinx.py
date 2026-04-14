@@ -1,5 +1,5 @@
 """
-hello.py
+sphinx.py
 ====================================
 This is an example file with correct docstring examples
 
